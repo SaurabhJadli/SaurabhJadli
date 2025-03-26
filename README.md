@@ -1,7 +1,23 @@
-<h1>Hi, I'm Saurabh Jadli</h1>
+# 👋 Hi, I'm Saurabh Jadli 
 
-<li>I have been coding for 6 years
-<li>I'hv deep intrest in Computers, Linux, Web and mobile apps.
-  <li>I like to discover new things</li>
-  <li>Love to make things more and more better</li>
-<li>You can follow me on Insta @saurabh_jadli_
+## About Me  
+I'm a passionate **Web Developer** eager to build user-friendly, scalable, and efficient web applications. As a **fresher**, I'm constantly learning and exploring new technologies in the field of web development. I also like to discover new things and Loves to make things even more better.
+
+## 🛠️ Skills  
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, React.js  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **Version Control:** Git, GitHub  
+- **Other Tools:** VS Code, thunder client  
+
+## 🌱 Currently Learning  
+- OAuth using passport js
+- Authentication with JWT & OAuth
+- Protected Routes
+
+## 📫 Connect with Me  
+- LinkedIn: https://www.linkedin.com/in/saurabh-jadli-373565233(#)  
+- Portfolio: https://saurabhjadli.github.io/(#)
+- Instagram: (#)  
+
+📌 *Feel free to check out my projects!* 🚀  
