@@ -4,7 +4,7 @@
 I'm a passionate **Web Developer** eager to build user-friendly, scalable, and efficient web applications. As a **fresher**, I'm constantly learning and exploring new technologies in the field of web development. I also like to discover new things and Loves to make things even more better.
 
 ## 🛠️ Skills  
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript, React.js  
+- **Frontend:** HTML5, CSS, Bootstrap, JavaScript, React.js  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB, MySQL  
 - **Version Control:** Git, GitHub  
