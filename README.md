@@ -16,8 +16,8 @@ I'm a passionate **Web Developer** eager to build user-friendly, scalable, and e
 - Protected Routes
 
 ## 📫 Connect with Me  
-- LinkedIn: https://www.linkedin.com/in/saurabh-jadli-373565233(#)  
-- Portfolio: https://saurabhjadli.github.io/(#)
-- Instagram: https://www.instagram.com/saurabh_jadli_/(#)  
+- LinkedIn: https://www.linkedin.com/in/saurabh-jadli-373565233 
+- Portfolio: https://saurabhjadli.github.io/
+- Instagram: https://www.instagram.com/saurabh_jadli_/
 
 📌 *Feel free to check out my projects!* 
