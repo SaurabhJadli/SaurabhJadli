@@ -14,6 +14,7 @@ I'm a passionate **Web Developer** eager to build user-friendly, scalable, and e
 - OAuth using passport js
 - Authentication with JWT & OAuth
 - Protected Routes
+- Redux toolkit
 
 ## 📫 Connect with Me  
 - LinkedIn: https://www.linkedin.com/in/saurabh-jadli-373565233 
